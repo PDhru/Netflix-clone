@@ -25,7 +25,7 @@
 🚀 Getting Started
 
 1. Clone the Repository :~
-=> git clone https://github.com/your-repo/netflix-clone.git  
+=> git clone https://github.com/PDhru/Netflix-clone
 => cd netflix-clone  
 
 2. Install Dependencies :~
